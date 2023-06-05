@@ -1,0 +1,8 @@
+#parent {
+    margin-top: 50px;
+}
+
+table {
+    position: absolute;
+    left: 50%;
+}
